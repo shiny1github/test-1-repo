@@ -2,6 +2,7 @@
 <?php include "admin_authentication.php";?>
 <?php include "../classes/thumbnail_images.class.php";?>
 <?php
+// sdfgbhnm
 if($_REQUEST['record_id'])
 {
     $record_id=$_REQUEST['record_id'];
