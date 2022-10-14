@@ -1,7 +1,7 @@
 <?php include 'inc_classes.php';?>
 <?php include "admin_authentication.php";?>
 <?php include "../classes/thumbnail_images.class.php";?>
-<?php
+
 // sdfgbhnm
 if($_REQUEST['record_id'])
 {
