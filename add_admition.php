@@ -11,6 +11,7 @@ if($_REQUEST['record_id'])
     $row_record=$db->fetch_array($db->query($sql_record));
     else
     $record_id=0;
+	//asdfghj12345678i
 }
 /*$select_coupon = "select * from discount_coupon where course_id = '".$record_id."' ";                                           
 $val_coupon = $db->fetch_array($db->query($select_coupon));*/
